@@ -1,0 +1,43 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.counter{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 350px;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    background: #feffea;
+    border: 5px groove transparent;
+    border-radius: 5px;
+    color: #bbb;
+}
+.counter h1{
+
+    color: #000;
+    font-size: 18px;
+    
+}
+
+#count{
+
+
+
+    font-size: 9rem;
+    /* font-size: 144px; */
+
+
+}
+.btn{
+
+    padding: 10px;
+
+}
